@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Bienvenidos a la página de los ejercicios de programación de de Saudith
 
-You can use the [editor on GitHub](https://github.com/Saudith1517/EjerciciosProgramacion/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En esta página guardará todos los ejercicos del curso, espero tener un control sobre mis actividades y etc etc
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Sobre mí
+Una breve descripcion de ustedes.
 
-### Markdown
+## Ejercicios
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aquí los ejercicios
+
+## Proyecto
+
 
 ```markdown
 Syntax highlighted code block
